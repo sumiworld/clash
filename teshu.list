@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,instagram.fgau1-3.fna.fbcdn.net
+DOMAIN-KEYWORD,fbcdn
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-KEYWORD,chatgpt
@@ -10,6 +11,7 @@ DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,pa.googleapis
 DOMAIN-KEYWORD,googleapis
 DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,googlezip
 DOMAIN-KEYWORD,newworld1788.workers
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,binancecnt
@@ -19,3 +21,7 @@ DOMAIN-KEYWORD,siftscience
 DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,grok
+DOMAIN-KEYWORD,stripe
+DOMAIN-KEYWORD,x.ai
+DOMAIN-KEYWORD,intercom
